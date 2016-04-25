@@ -1,0 +1,2 @@
+# meteor-starter
+Meteor boilerplate
